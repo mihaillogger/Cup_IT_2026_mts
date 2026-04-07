@@ -51,6 +51,7 @@
 ├── 01_EDA_and_Insights.ipynb            # Внутренняя очистка, метрика и сборка
 ├── 02_Merging_and_Feature_Engineering.ipynb # Графы (IoU), Альфа/Бета, генерация признаков
 ├── 03_ML_3_D_Model.ipynb                # K-Fold CV, обучение LightGBM, генерация сабмита и 3D
+├── Cup_IT_2026_Кронверкские_псы.pdf     # Презентация решения
 ├── requirements.txt                     # Зависимости проекта
 └── README.md                            # Описание проекта
 ```
